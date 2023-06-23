@@ -946,4 +946,9 @@ body {
       max-width: inherit;
     }
   }
+
+  .project-image {
+    max-width: 100%;
+    height: auto;
+}
   
